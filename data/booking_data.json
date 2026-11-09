@@ -1,0 +1,19 @@
+{
+  "valid_booking": {
+    "firstname": "QA",
+    "lastname": "Automation",
+    "totalprice": 150,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2027-01-10",
+      "checkout": "2027-01-13"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  "negative_price": -100,
+  "zero_price": 0,
+  "invalid_dates": {
+    "checkin": "2027-01-20",
+    "checkout": "2027-01-10"
+  }
+}
